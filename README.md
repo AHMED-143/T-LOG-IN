@@ -8,7 +8,7 @@ Termux-Login-v1.2
 
 [+] install and use
 
-git clone https://github.com/TechnicalMujeeb/Termux-Login.git
+git clone https://github.com/BLAZE-143/T-LOG-IN.git
 
 cd Termux-Login
 
